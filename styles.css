@@ -126,6 +126,9 @@
   .ml-50{
     margin-left: 50px;
   }
+  .ml-40{
+    margin-left: 40px;
+  }
   .hXL {
     font-size: 48px;
     text-decoration: none;
@@ -141,7 +144,7 @@
     text-align: center;
   }
   .images{
-    width: 250px;
+    width: 290px;
   }
   input{
     width: 350px;
@@ -166,9 +169,8 @@
     height: 50px;
   }
   .card{
-    width: 280px;
+    width: 290px;
     height:200px ;
-    min-width: 320px;
     padding: 42px 0px 0px 0px;
     gap: 68px;
     opacity: 0px;
